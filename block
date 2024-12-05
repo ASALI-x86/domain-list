@@ -1,1 +1,44 @@
+#Advertising and Tracking Domains (can be blocked):
+acuityplatform.com/
+aditude.io/
+adsystem.com/
+aniview.com/
+casalemedia.com/
+criteo.com/
+doubleclick.net/
+id5-sync.com/
+inmobi.com/
+judy.pnap.aditude.cloud/
+kueezrtb.com/
+openx.net/
+orangeclickmedia.com/ 
+pubmatic.com/
+rubiconproject.com/
+s.adroll.com/ 
+sharethrough.com/
+smartadserver.com/
+smilewanted.com/
+stats.g.doubleclick.net/
+teads.tv/
 
+#Analytics and Behavioural Tracking (can be blocked):
+cloudflareinsights.com/
+google-analytics.com/
+googletagmanager.com/
+hotjar.com/
+newrelic.com/
+nr-data.net/
+profitwell.com/
+track.hubspot.com/
+
+#HubSpot-Specific Tracking and Forms (can be blocked):
+cta-service-cms2.hubspot.com/
+forms.hscollectedforms.net/
+forms.hsforms.com/
+js.hs-analytics.net/
+js.hs-banner.com/
+js.hscollectedforms.net/
+js.hs-scripts.com/ 
+js.hubspot.com/
+js-na1.hs-scripts.com/
+perf-na1.hsforms.com/
