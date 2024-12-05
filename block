@@ -1,4 +1,4 @@
-#Advertising and Tracking Domains (can be blocked):
+Advertising-and-Tracking-Domains/
 acuityplatform.com/
 aditude.io/
 adsystem.com/
@@ -21,7 +21,7 @@ smilewanted.com/
 stats.g.doubleclick.net/
 teads.tv/
 
-#Analytics and Behavioural Tracking (can be blocked):
+Analytics-and-Behavioural-Tracking/
 cloudflareinsights.com/
 google-analytics.com/
 googletagmanager.com/
@@ -31,7 +31,7 @@ nr-data.net/
 profitwell.com/
 track.hubspot.com/
 
-#HubSpot-Specific Tracking and Forms (can be blocked):
+HubSpot-Specific-Tracking-and-Forms/
 cta-service-cms2.hubspot.com/
 forms.hscollectedforms.net/
 forms.hsforms.com/
@@ -43,13 +43,13 @@ js.hubspot.com/
 js-na1.hs-scripts.com/
 perf-na1.hsforms.com/
 
-#Social media and Video
+Social-media-and-Video/
 avplayer.com/
-licdn.com /
+licdn.com/
 linkedin.com/
 youtube.com/
 
-#Content Delivery Networks (Required):
+#Content-Delivery-Networks/
 cartocdn.com/ 
 cloudflare.com/
 cloudfront.net/
@@ -58,7 +58,7 @@ jsdelivr.net/
 npmcdn.com/
 unpkg.com/
 
-#Geospatial, Mapping Services and Others (Required):
+Geospatial-Mapping-Services-and-Others/
 arcgisonline.com/ 
 blacksky.com/
 circlegeo.com/
